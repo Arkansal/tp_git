@@ -10,7 +10,7 @@
         echo "<p>On est le";
         echo date(D-M-Y);
         echo "</p>";
-        echo"<p>Je test git et Vscode</p>";
+        echo"<p>Je test git et VScode</p>";
     ?>
 </body>
 </html>
